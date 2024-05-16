@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/Resource">
+        <file>Image/Judul.png</file>
+        <file>Image/Login Icon_Admin.png</file>
+        <file>Image/Login Icon_User.png</file>
+        <file>Image/login_icon.png</file>
+        <file>Image/ONLINE PLAYBOOK (1).png</file>
+        <file>Image/ONLINE PLAYBOOK (2).png</file>
+        <file>Image/ONLINE PLAYBOOK (3).png</file>
+        <file>Image/ONLINE PLAYBOOK (4).png</file>
+        <file>Image/ONLINE PLAYBOOK.png</file>
+        <file>Image/ONLINE PLAYBOOK (1.2).png</file>
+        <file>Image/ONLINE PLAYBOOK.2.png</file>
+    </qresource>
+</RCC>

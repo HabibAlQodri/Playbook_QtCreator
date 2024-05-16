@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "C:/Users/User/Documents/Playbook/build/Desktop_19e1bd-Debug/Playbook_Online_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/User/Documents/Playbook/build/Desktop_19e1bd-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/User/Documents/Playbook/build/Desktop_19e1bd-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/User/Documents/Playbook",
+	"CMAKE_SOURCE_DIR" : "C:/Users/User/Documents/Playbook",
+	"INCLUDE_DIR" : "C:/Users/User/Documents/Playbook/build/Desktop_19e1bd-Debug/Playbook_Online_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK (4).png",
+		"C:/Users/User/Documents/Playbook/Image/Login Icon_User.png",
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK.png",
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK (1.2).png",
+		"C:/Users/User/Documents/Playbook/Image/login_icon.png",
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK (3).png",
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK (1).png",
+		"C:/Users/User/Documents/Playbook/Image/Login Icon_Admin.png",
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK.2.png",
+		"C:/Users/User/Documents/Playbook/Image/ONLINE PLAYBOOK (2).png",
+		"C:/Users/User/Documents/Playbook/Image/Judul.png"
+	],
+	"LOCK_FILE" : "C:/Users/User/Documents/Playbook/build/Desktop_19e1bd-Debug/CMakeFiles/Playbook_Online_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "Resource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_Resource.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.0/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/User/Documents/Playbook/build/Desktop_19e1bd-Debug/CMakeFiles/Playbook_Online_autogen.dir/AutoRcc_Resource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/User/Documents/Playbook/Resource.qrc",
+	"VERBOSITY" : 0
+}
